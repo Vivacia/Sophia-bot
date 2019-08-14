@@ -3,7 +3,7 @@
 A chat-bot created by Vivacia/Varnika on April 5, 2018 based on an old and dusty bot created by cuisinart8 a few years ago. Her older and obsolete version had bits and pieces of code from fully functional bots like Taiya/TaiyaIRC by Talvieno, Saoirse/Dinobot by Dinosawer and Jimmy by cha0zz. Special thanks to lycurgus for helping me debug her a lot. :D
 </p>
 <p>
-Runs primarily in Discord and IRC. She behaves like a five year old girl and can look up Wikipedia articles, link youtube videos and define words, toss out their antonyms and synonyms when asked to do so.
+Runs primarily in Discord and IRC. She behaves like a five year old girl and can look up Wikipedia articles, link youtube videos and define words, toss out their antonyms and synonyms when asked to do so. Google function is currently broken.
 </p>
 <p>
 Her code is supposed to mold around the users and hence there is not a fixed command to make her do things: she understands users’ requests and acts accordingly.
